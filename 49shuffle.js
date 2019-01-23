@@ -39,4 +39,4 @@ let shuffle = (array, groupAmount) => {
   console.log(groupObj);
 }
 
-shuffle(students, 5);
+shuffle(students, 11);
